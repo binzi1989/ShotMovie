@@ -97,4 +97,5 @@ docker compose up -d backend
 
 
 想要共建的朋友可以联系我的微信
-<img width="836" height="808" alt="ScreenShot_2026-02-10_135403_983" src="https://github.com/user-attachments/assets/9913f514-8a5d-4982-8ed9-bb5d0faa05a9" />
+<img width="812" height="786" alt="image" src="https://github.com/user-attachments/assets/4a76f10c-538d-4a8e-ab87-4e33c172a388" />
+
