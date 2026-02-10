@@ -97,3 +97,7 @@ docker compose up -d backend
 - [短视频短剧多智能体创作规划.md](短视频短剧多智能体创作规划.md)
 - [可接入API清单表.md](可接入API清单表.md)
 - [.cursor/skills/README.md](.cursor/skills/README.md)（Skills 与 Anthropic/agentskills.io 对齐说明）
+
+
+想要共建的朋友可以联系我的微信
+<img width="836" height="808" alt="ScreenShot_2026-02-10_135403_983" src="https://github.com/user-attachments/assets/9913f514-8a5d-4982-8ed9-bb5d0faa05a9" />
