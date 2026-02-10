@@ -85,8 +85,6 @@ docker compose up -d backend
 ---
 
 ## 扩展与接入
-
-- **商品 API**：在 `backend/app/services/product_api.py` 的 `fetch_product` 中接入淘宝/京东/拼多多等，密钥见 `可接入API清单表.md`。
 - **LLM 生成脚本/分镜**：在 `backend/app/services/llm.py` 中增加真实 API 调用（OpenAI 兼容或通义），未配置时继续使用模板。
 - **文生视频/短剧 API**：在 Agent 中增加对通义万相等接口的调用，见规划文档与 API 清单表。
 
